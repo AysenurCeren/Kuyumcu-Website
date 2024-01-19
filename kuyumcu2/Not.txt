@@ -1,0 +1,2 @@
+-Xammpteki htdocs klasörü içine atıldıktan sonra  http://localhost/kuyumcu2/kuyumcu.php ile siteye girebilirsizin.
+-Resimler html ile eklenmiştir.
